@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ropa Deportiva</string>
+    <string name="codigo_hint">Código</string>
+    <string name="marca_hint">Marca</string>
+    <string name="modelo_hint">Modelo</string>
+    <string name="talla_chica">Chica</string>
+    <string name="talla_mediana">Mediana</string>
+    <string name="talla_grande">Grande</string>
+    <string name="color_negro">Negro</string>
+    <string name="color_blanco">Blanco</string>
+    <string name="color_azul">Azul</string>
+    <string name="color_rojo">Rojo</string>
+    <string name="color_naranja">Naranja</string>
+    <string name="costo_hint">Costo</string>
+</resources>
